@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29910.241
+MinimumVisualStudioVersion = 11.0.60610.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eRadha", "eRadha\eRadha.csproj", "{ECAFF457-6202-46B5-9A44-8874BD62EFC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAFF457-6202-46B5-9A44-8874BD62EFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAFF457-6202-46B5-9A44-8874BD62EFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAFF457-6202-46B5-9A44-8874BD62EFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAFF457-6202-46B5-9A44-8874BD62EFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1C9B9DA-C0EA-43F3-A76B-C018AF09BF64}
+	EndGlobalSection
+EndGlobal
